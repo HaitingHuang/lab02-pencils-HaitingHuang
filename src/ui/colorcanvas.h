@@ -19,7 +19,7 @@ private:
     bool m_isDown;
 
     // sets the color of the pencil
-    RGBA m_pencilColor = RGBA{123, 0, 123, 255};
+    RGBA m_pencilColor = RGBA{128, 147, 123, 255};
 
     void testPosToIndex();
     void drawFlower(int x, int y);
